@@ -32,10 +32,10 @@ A modern and responsive banking landing page built with HTML, CSS, Vanilla JS, a
    Navigate to the project directory:
    ```
 
-bash
+```bash
 Копировать код
 cd banking-landing-app
 Open index.html in your preferred browser to view the application.
-
+```
 Usage
 Feel free to explore the application and check out the features mentioned above. This project can serve as a portfolio piece or as a foundation for a more extensive banking application.
