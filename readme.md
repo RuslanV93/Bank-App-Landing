@@ -4,7 +4,7 @@
 
 ## Особенности
 
-- **Отзывчивый дизайн**: Макет адаптируется к различным размерам экрана, обеспечивая отличный опыт как на настольных, так и на мобильных устройствах.
+
 - **Модальные окна**: Интерактивные модальные окна для важной информации и действий.
 - **Плавная прокрутка**: Плавные анимации прокрутки для навигации по различным секциям.
 - **Навигация по вкладкам**: Удобный доступ к различным банковским услугам через вкладки.
@@ -19,7 +19,7 @@ A modern and responsive banking landing page built with HTML, CSS, Vanilla JS, a
 
 ## Features
 
-- **Responsive Design**: The layout adapts to various screen sizes, ensuring a great experience on both desktop and mobile devices.
+
 - **Modal Windows**: Interactive modal windows for important information and actions.
 - **Smooth Scrolling**: Smooth scroll animations for navigation to different sections.
 - **Tab Navigation**: Easy access to different banking services through tabs.
